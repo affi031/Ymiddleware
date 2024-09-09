@@ -1,0 +1,26 @@
+.subscription-container {
+    text-align: center;
+    padding: 50px;
+    margin: 0 15vh 0 15vh;
+    background-color: #0E1129;
+    color: white;
+  }
+  
+  .subscription-container-h1{
+    font-size: 6vh;
+    font-weight: 300;
+    margin: 0;
+  }
+  .subscription-cards {
+    margin-top: 5vh;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+    font-size: 24px;
+    color: white;
+  }
+  
